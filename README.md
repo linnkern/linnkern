@@ -7,7 +7,7 @@ Software Engineer | Python Developer | Django Developer | Web Developer
 I love to Code !!!. Explore new technology and Passion towards on learning new technology that can enhance and easier my daily stuff. So that I can time more time for ME time.
 
 * 🌍  I'm based in Penang, Malaysia
-* ✉️  You can contact me at [kerncl@hotmail.com](mailto:kerncl@hotmail.com)
+* ✉️  You can contact me at [kerncl@hotmail.com](mailto:kerncl@hotmail.com) [LinnKern.Chin@amd.com](mailto:LinnKern.Chin@amd.com)
 * 🧠  I'm learning Web Framework, Django, React, Software Architect , ML, LLM
 * 🤝  I'm open to collaborating on Web development, ML, LLM
 
